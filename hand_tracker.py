@@ -76,3 +76,4 @@ while cap.isOpened():
 cap.release()
 cv2.destroyAllWindows()
 print("Camera safely shut down.")
+# completed
