@@ -1,11 +1,11 @@
-# 🖐️ Gesture Controlled Mouse
+# Gesture Controlled Mouse
 
 A real-time hand gesture based virtual mouse system that allows users to control the computer cursor without using a physical mouse.  
 The project uses computer vision to detect hand movements and converts gestures into mouse actions.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Real-time hand tracking using webcam
 - Cursor control using hand movements
@@ -16,7 +16,7 @@ The project uses computer vision to detect hand movements and converts gestures 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Java
@@ -27,7 +27,7 @@ The project uses computer vision to detect hand movements and converts gestures 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Gesture-Controlled-Mouse/
@@ -39,7 +39,7 @@ Gesture-Controlled-Mouse/
 
 ---
 
-## ⚙️ Working
+## Working
 
 1. Webcam captures real-time hand movement.
 2. Python uses OpenCV and MediaPipe for hand landmark detection.
@@ -49,7 +49,7 @@ Gesture-Controlled-Mouse/
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone the repository:
 
@@ -77,7 +77,7 @@ javac GestureMouse.java
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 Start the Java mouse controller:
 
@@ -93,7 +93,7 @@ python hand_tracker.py
 
 ---
 
-## 🎮 Gesture Controls
+## Gesture Controls
 
 | Gesture | Action |
 |--------|--------|
@@ -103,7 +103,7 @@ python hand_tracker.py
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 - Add more gestures such as right click and scrolling.
 - Improve gesture recognition accuracy using AI models.
@@ -112,6 +112,6 @@ python hand_tracker.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-Developed by **Your Name**
+Developed by **Akshay Srivastav**
